@@ -1,4 +1,4 @@
 # Work
-Principal Engineer, Voicezen
+Architect - Core, Smallcase
 
 Love HTML, CSS, JavaScript. Web Guy!
